@@ -16,7 +16,7 @@
 ### Установка
 Клонируйте репозиторий:
 
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/Mikforce/test_routs.git
 Перейдите в директорию проекта:
 
 cd your_project
